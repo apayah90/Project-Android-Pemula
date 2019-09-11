@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application Android Pemula</string>
+    <string name="Panjang">Panjang (cm)</string>
+    <string name="Lebar">Lebar (cm)</string>
+    <string name="Tinggi">Tinggi (cm)</string>
+    <string name="Hitung">Hitung</string>
+    <string name="Hasil">Hasil</string>
+</resources>
